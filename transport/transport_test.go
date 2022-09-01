@@ -1,4 +1,4 @@
-package core_transport
+package transport
 
 import (
 	"context"
